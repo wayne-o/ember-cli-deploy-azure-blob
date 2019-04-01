@@ -22,7 +22,8 @@
   },
   "dependencies": {
     "ember-cli-babel": "^6.6.0",
-    "walk": "^2.3.14"
+    "walk": "^2.3.14",
+    "ember-cli-deploy-plugin": "^0.2.9"
   },
   "devDependencies": {
     "azure-storage": "^2.10.2",
