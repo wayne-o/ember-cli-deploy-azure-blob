@@ -8,7 +8,7 @@ var path        = require('path');
 var mime        = require('mime');
 
 module.exports = {
-  name: 'ember-deploy-azure-blob',
+  name: 'ember-cli-deploy-azure-blob',
    createDeployPlugin: function(options) {
     var DeployPlugin = DeployPluginBase.extend({
       name: options.name,
